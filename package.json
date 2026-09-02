@@ -22,7 +22,7 @@
   "homepage": "https://github.com/devSahinur/aws-ec2-check#readme",
   "type": "module",
   "bin": {
-    "aws-ec2-check": "./dist/cli/bin.js"
+    "aws-ec2-check": "dist/cli/bin.js"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

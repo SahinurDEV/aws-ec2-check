@@ -22,6 +22,9 @@ EC2 health checks are a common day-to-day task. This CLI keeps that workflow loc
 npm install -g aws-ec2-check
 ```
 
+Package: [npmjs.com/package/aws-ec2-check](https://www.npmjs.com/package/aws-ec2-check)  
+Repository: [github.com/devSahinur/aws-ec2-check](https://github.com/devSahinur/aws-ec2-check)
+
 Or run from source:
 
 ```bash
