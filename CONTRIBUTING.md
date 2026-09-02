@@ -8,7 +8,7 @@ Thanks for your interest in contributing.
 2. Clone your fork:
 
 ```bash
-git clone https://github.com/<your-username>/aws-ec2-check.git
+git clone https://github.com/devSahinur/aws-ec2-check.git
 cd aws-ec2-check
 ```
 

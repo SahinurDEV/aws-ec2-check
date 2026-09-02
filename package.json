@@ -10,16 +10,16 @@
     "devops",
     "infrastructure"
   ],
-  "author": "YOUR_NAME",
+  "author": "Sahinur",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR_GITHUB_USERNAME/aws-ec2-check.git"
+    "url": "git+https://github.com/devSahinur/aws-ec2-check.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/aws-ec2-check/issues"
+    "url": "https://github.com/devSahinur/aws-ec2-check/issues"
   },
-  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/aws-ec2-check#readme",
+  "homepage": "https://github.com/devSahinur/aws-ec2-check#readme",
   "type": "module",
   "bin": {
     "aws-ec2-check": "./dist/cli/bin.js"

@@ -25,7 +25,7 @@ npm install -g aws-ec2-check
 Or run from source:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/aws-ec2-check.git
+git clone https://github.com/devSahinur/aws-ec2-check.git
 cd aws-ec2-check
 npm install
 npm run build
@@ -206,4 +206,4 @@ See [SECURITY.md](SECURITY.md).
 
 MIT — see [LICENSE](LICENSE).
 
-Replace `YOUR_NAME` / `YOUR_GITHUB_USERNAME` placeholders in `package.json`, `LICENSE`, and this README before publishing.
+Maintainer: [devSahinur](https://github.com/devSahinur) · npm: [sahinur](https://www.npmjs.com/~sahinur)
