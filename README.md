@@ -1,5 +1,10 @@
 # aws-ec2-check
 
+[![CI](https://github.com/devSahinur/aws-ec2-check/actions/workflows/ci.yml/badge.svg)](https://github.com/devSahinur/aws-ec2-check/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/aws-ec2-check.svg)](https://www.npmjs.com/package/aws-ec2-check)
+[![Node.js](https://img.shields.io/node/v/aws-ec2-check.svg)](https://www.npmjs.com/package/aws-ec2-check)
+[![License: MIT](https://img.shields.io/npm/l/aws-ec2-check.svg)](https://github.com/devSahinur/aws-ec2-check/blob/main/LICENSE)
+
 A small, focused CLI that inspects AWS EC2 instance health and basic metadata from your terminal — without opening the AWS Console.
 
 ## Features

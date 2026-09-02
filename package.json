@@ -24,8 +24,8 @@
   "bin": {
     "aws-ec2-check": "dist/cli/bin.js"
   },
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist",
     "docs/iam-policy.json",
