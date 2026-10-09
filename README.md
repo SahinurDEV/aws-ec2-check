@@ -214,4 +214,4 @@ See [SECURITY.md](SECURITY.md).
 
 MIT — see [LICENSE](LICENSE).
 
-Maintainer: [devSahinur](https://github.com/SahinurDEV) · npm: [sahinur](https://www.npmjs.com/~sahinur)
+Maintainer: [SahinurDEV](https://github.com/SahinurDEV) · npm: [sahinur](https://www.npmjs.com/~sahinur)
