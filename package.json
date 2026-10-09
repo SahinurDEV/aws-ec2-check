@@ -14,12 +14,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devSahinur/aws-ec2-check.git"
+    "url": "git+https://github.com/SahinurDEV/aws-ec2-check.git"
   },
   "bugs": {
-    "url": "https://github.com/devSahinur/aws-ec2-check/issues"
+    "url": "https://github.com/SahinurDEV/aws-ec2-check/issues"
   },
-  "homepage": "https://github.com/devSahinur/aws-ec2-check#readme",
+  "homepage": "https://github.com/SahinurDEV/aws-ec2-check#readme",
   "type": "module",
   "bin": {
     "aws-ec2-check": "dist/cli/bin.js"

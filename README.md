@@ -1,9 +1,9 @@
 # aws-ec2-check
 
-[![CI](https://github.com/devSahinur/aws-ec2-check/actions/workflows/ci.yml/badge.svg)](https://github.com/devSahinur/aws-ec2-check/actions/workflows/ci.yml)
+[![CI](https://github.com/SahinurDEV/aws-ec2-check/actions/workflows/ci.yml/badge.svg)](https://github.com/SahinurDEV/aws-ec2-check/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/aws-ec2-check.svg)](https://www.npmjs.com/package/aws-ec2-check)
 [![Node.js](https://img.shields.io/node/v/aws-ec2-check.svg)](https://www.npmjs.com/package/aws-ec2-check)
-[![License: MIT](https://img.shields.io/npm/l/aws-ec2-check.svg)](https://github.com/devSahinur/aws-ec2-check/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/npm/l/aws-ec2-check.svg)](https://github.com/SahinurDEV/aws-ec2-check/blob/main/LICENSE)
 
 A small, focused CLI that inspects AWS EC2 instance health and basic metadata from your terminal — without opening the AWS Console.
 
@@ -28,12 +28,12 @@ npm install -g aws-ec2-check
 ```
 
 Package: [npmjs.com/package/aws-ec2-check](https://www.npmjs.com/package/aws-ec2-check)  
-Repository: [github.com/devSahinur/aws-ec2-check](https://github.com/devSahinur/aws-ec2-check)
+Repository: [github.com/SahinurDEV/aws-ec2-check](https://github.com/SahinurDEV/aws-ec2-check)
 
 Or run from source:
 
 ```bash
-git clone https://github.com/devSahinur/aws-ec2-check.git
+git clone https://github.com/SahinurDEV/aws-ec2-check.git
 cd aws-ec2-check
 npm install
 npm run build
@@ -214,4 +214,4 @@ See [SECURITY.md](SECURITY.md).
 
 MIT — see [LICENSE](LICENSE).
 
-Maintainer: [devSahinur](https://github.com/devSahinur) · npm: [sahinur](https://www.npmjs.com/~sahinur)
+Maintainer: [devSahinur](https://github.com/SahinurDEV) · npm: [sahinur](https://www.npmjs.com/~sahinur)
